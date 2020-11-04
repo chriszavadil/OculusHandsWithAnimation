@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EC2A15C9-457E-D507-B290-B7AB367934C8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BaseVr2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
+}
